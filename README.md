@@ -46,5 +46,3 @@ The main notebooks that are there in the code are
 1) Association rules.ipynb
 2) Forecasting-Arima/Arima.ipynb
 3) Forecasting-LSTM/Sales Forecasting .ipynb
-
-Please contact kadiyala.v@husky.neu.edu if you have any further questions.
