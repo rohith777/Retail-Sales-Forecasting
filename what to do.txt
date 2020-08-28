@@ -1,0 +1,50 @@
+3 slides on kirkborne - [1 - 1.5 min]
+1 slide on name of project
+what all we have done
+             tell a story to - 
+
+data what u did
+modelling
+interesting conclusions - 1) purely from modelling
+			  2) useful to real world/customer
+
+Report: 
+
+Problem setting - what kind of forecasting? - in terms o dollars? why is that relevant?
+for how much duration u r forecasting? why forecasting matters.
+
+this project is about ....
+
+what is the data? where did u get it, description of data
+extra data?
+
+correlation? purpose? what did u find?
+
+data mining task: 
+data cleansing, transformation
+how did u address holdout set, training set
+
+ - dimention reduction? 
+
+codification?
+performance evaluation - give specific results
+
+impact of project outcome - use to real world and by whom
+
+sample graphs/code 
+
+
+-----------------
+
+source code - segregation/comments/able to run in host environment
+read.me - how to run/libraries required/
+text doc containing -link to share data via drive
+ 
+
+
+
+
+
+
+
+

@@ -1,0 +1,67 @@
+min_support=0.0045, min_confidence=0.2, min_lift=3
+=====================================
+Rule: BOUNTY ADVANCED SAS 715SF -> CHARMIN BLUE ULTRA 30/221
+Support: 0.004683934665527765
+Confidence: 0.3400291120815138
+Lift: 12.27605030780115
+=====================================
+Rule: ORGANIC BLUEBERRIES 18 OZ -> ORGANIC RASPBERRIES
+Support: 0.004599720086781119
+Confidence: 0.2741395793499044
+Lift: 11.336694514996719
+=====================================
+Rule: BLACKBERRIES 18 OZ -> BLUEBERRIES
+Support: 0.004772159462309966
+Confidence: 0.37765788638527453
+Lift: 7.529093661871699
+=====================================
+Rule: RASPBERRIES 12OZ CLMSHEL -> BLUEBERRIES
+Support: 0.0092114708276689
+Confidence: 0.35376559371630983
+Lift: 7.052770206738101
+=====================================
+Rule: BLUEBERRIES -> 2 LB STRAWBERRIES
+Support: 0.011898316911490478
+Confidence: 0.2911678115799804
+Lift: 5.804803245844152
+=====================================
+Rule: RASPBERRIES 12OZ CLMSHEL -> 2 LB STRAWBERRIES
+Support: 0.006027357707438554
+Confidence: 0.23148005544432465
+Lift: 5.66462817132121
+=====================================
+Rule: KS PAPER TOWEL 12/160 P54 -> KS 2PLY BATH TIS 30/425SH
+Support: 0.020865164438990547
+Confidence: 0.2866666666666666
+Lift: 5.2904129662522195
+=====================================
+Rule: MIXED BELL PEPPERS -> AVOCADOS
+Support: 0.0062278686092162834
+Confidence: 0.27806624888093107
+Lift: 3.6197240561545003
+=====================================
+Rule: BANANAS -> KS 2% LOWFAT MILK 2/1 GAL
+Support: 0.004972670364087695
+Confidence: 0.2659232253913789
+Lift: 3.4840231835901023
+=====================================
+Rule: ORGANIC LONG ENGLISH CUKE -> AVOCADOS
+Support: 0.005526080452994229
+Confidence: 0.266847405112316
+Lift: 3.4736828920976435
+=====================================
+Rule: ORG. BABY BELLA MUSHROOM -> AVOCADOS
+Support: 0.0065968086684873055
+Confidence: 0.26119402985074625
+Lift: 3.4000901475084375
+=====================================
+Rule: BRUSSELS SPROUTS -> AVOCADOS
+Support: 0.00507292581497656
+Confidence: 0.24104420731707316
+Lift: 3.1377900746088594
+=====================================
+Rule: ORGANIC BABY SPINACH -> AVOCADOS
+Support: 0.007667536883980382
+Confidence: 0.23451490248988102
+Lift: 3.0527949274161723
+=====================================

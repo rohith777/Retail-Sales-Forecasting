@@ -1,0 +1,347 @@
+min_support=0.0045, min_confidence=0.2, min_lift=3
+=====================================
+Rule: CABERNET SAUVIGNON -> RED BLEND RED MERITAGE
+Support: 0.004980690800158805
+Confidence: 0.323269130661114
+Lift: 11.715064704119659
+=====================================
+Rule: BLACKBERRIES -> RASPBERRIES
+Support: 0.005048864506763233
+Confidence: 0.2561025223759154
+Lift: 11.14723220234341
+=====================================
+Rule: BLACKBERRIES -> RASPBERRIES
+Support: 0.009139286903028917
+Confidence: 0.4635882831570382
+Lift: 8.821868517467072
+=====================================
+Rule: SNACKS AND BARS -> FRUIT SNACKS SINGLES
+Support: 0.004776169680345521
+Confidence: 0.24979026845637584
+Lift: 7.7032464399069065
+=====================================
+Rule: BATH TISSUE -> ROLLED PAPER TOWELS
+Support: 0.004720026627847756
+Confidence: 0.4806043282972642
+Lift: 6.9070910677880635
+=====================================
+Rule: BATH TISSUE -> ROLLED PAPER TOWELS
+Support: 0.0050528747247987876
+Confidence: 0.4452296819787986
+Lift: 6.3986980109088325
+=====================================
+Rule: CUCUMBERS -> PEPPERS
+Support: 0.006472491909385114
+Confidence: 0.20917573872472786
+Lift: 6.38598062385092
+=====================================
+Rule: RASPBERRIES -> BLUEBERRIES
+Support: 0.005578213287456439
+Confidence: 0.3330141249700742
+Lift: 6.337103269605664
+=====================================
+Rule: RASPBERRIES -> BANANAS
+Support: 0.004952619273909923
+Confidence: 0.34916595985298277
+Lift: 6.299310609667149
+=====================================
+Rule: RASPBERRIES -> STRAWBERRIES
+Support: 0.007908149966113658
+Confidence: 0.34421364985163205
+Lift: 6.209965878161809
+=====================================
+Rule: RASPBERRIES -> BANANAS
+Support: 0.006985799817936101
+Confidence: 0.32367149758454106
+Lift: 6.159317433773956
+=====================================
+Rule: BLACKBERRIES -> BLUEBERRIES
+Support: 0.00896684752750007
+Confidence: 0.45484133441822616
+Lift: 6.1551310400245365
+=====================================
+Rule: ROLLED PAPER TOWELS -> BATH TISSUE
+Support: 0.0055300906710297835
+Confidence: 0.42094017094017094
+Lift: 6.049616958455066
+=====================================
+Rule: BANANAS -> STRAWBERRIES
+Support: 0.007114126795073848
+Confidence: 0.3296172426607209
+Lift: 5.946631781334491
+=====================================
+Rule: LIQUID LAUNDRY DETERGENTS -> LAUNDRY SUPPLIES
+Support: 0.005903040948336361
+Confidence: 0.25716282320055905
+Lift: 5.933280262931255
+=====================================
+Rule: RASPBERRIES -> BLUEBERRIES
+Support: 0.022974539125692264
+Confidence: 0.31090248005643895
+Lift: 5.916328993766315
+=====================================
+Rule: PEPPERS -> TOMATOES
+Support: 0.009520257616406604
+Confidence: 0.30767236910316226
+Lift: 5.908972964931596
+=====================================
+Rule: BLACKBERRIES -> STRAWBERRIES
+Support: 0.006223858391180728
+Confidence: 0.31570382424735555
+Lift: 5.695619499768002
+=====================================
+Rule: CUCUMBERS -> TOMATOES
+Support: 0.009608482413188806
+Confidence: 0.2933398628795299
+Lift: 5.633711354530823
+=====================================
+Rule: SPARKLING CARBONATED WATER -> BATH TISSUE
+Support: 0.005032823634621014
+Confidence: 0.35846900885461297
+Lift: 5.151801478589872
+=====================================
+Rule: SPINACH -> BROWN MUSHROOMS
+Support: 0.005305518461038727
+Confidence: 0.2100666878374087
+Lift: 5.130042060444594
+=====================================
+Rule: STRAWBERRIES -> BLUEBERRIES
+Support: 0.004667893793385547
+Confidence: 0.2786689011252095
+Lift: 5.027471653254638
+=====================================
+Rule: LIQUID LAUNDRY DETERGENTS -> DISHWASHER DETERGENTS
+Support: 0.006195786864931847
+Confidence: 0.21524101421008637
+Lift: 4.9660570897918
+=====================================
+Rule: RASPBERRIES -> STRAWBERRIES
+Support: 0.014268355770503243
+Confidence: 0.27152014652014655
+Lift: 4.898500817298748
+=====================================
+Rule: FAMILY CEREAL -> ADULT CEREAL
+Support: 0.006324113842069593
+Confidence: 0.23109613130128956
+Lift: 4.8935822511619795
+=====================================
+Rule: STRAWBERRIES -> BLUEBERRIES
+Support: 0.019946824508848545
+Confidence: 0.2699299940304987
+Lift: 4.869812841949591
+=====================================
+Rule: SALSA -> CHIPS
+Support: 0.009752850262468771
+Confidence: 0.3739237392373924
+Lift: 4.716852761404993
+=====================================
+Rule: BATH TISSUE -> ROLLED PAPER TOWELS
+Support: 0.033505371687058624
+Confidence: 0.32323584029712166
+Lift: 4.645441694658011
+=====================================
+Rule: ROMAINE -> TOMATOES
+Support: 0.007864037567722557
+Confidence: 0.22935672514619884
+Lift: 4.404889175341311
+=====================================
+Rule: DIPS -> CHIPS
+Support: 0.006797319570265035
+Confidence: 0.34690953745395003
+Lift: 4.376082708828882
+=====================================
+Rule: ORGANIC MILK -> ORGANIC EGGS
+Support: 0.009724778736219889
+Confidence: 0.2830629158398506
+Lift: 4.3496067218740855
+=====================================
+Rule: MILK FLUID WHITE -> CAGE FREE EGGS
+Support: 0.009564370014797704
+Confidence: 0.2520875171757742
+Lift: 4.309996540658387
+=====================================
+Rule: FAMILY CEREAL -> PEANUT BUTTER
+Support: 0.00467992444749221
+Confidence: 0.20295652173913042
+Lift: 4.297711203331758
+=====================================
+Rule: PINEAPPLE -> STRAWBERRIES
+Support: 0.005221303882292081
+Confidence: 0.23689956331877732
+Lift: 4.2739101293488835
+=====================================
+Rule: CHIPS -> PRETZELS AND MIXES
+Support: 0.0061356335943985275
+Confidence: 0.31585466556564823
+Lift: 3.984341712335428
+=====================================
+Rule: STRAWBERRIES -> RED
+Support: 0.004768149244274411
+Confidence: 0.22055277314041918
+Lift: 3.9789973353070716
+=====================================
+Rule: HUMMUS AND NUT DIPS -> CHIPS
+Support: 0.009387920421233303
+Confidence: 0.31507402422611036
+Lift: 3.9744943293755344
+=====================================
+Rule: FACIAL TISSUE -> ROLLED PAPER TOWELS
+Support: 0.008216936754851361
+Confidence: 0.2755513717052179
+Lift: 3.960135825170206
+=====================================
+Rule: BROWN MUSHROOMS -> TOMATOES
+Support: 0.005201252792114307
+Confidence: 0.20593839314067958
+Lift: 3.9551305860088783
+=====================================
+Rule: TOMATOES -> BANANAS
+Support: 0.00507292581497656
+Confidence: 0.3297705943691345
+Lift: 3.8785296068140025
+=====================================
+Rule: CHIPS -> GUACAMOLE
+Support: 0.004683934665527765
+Confidence: 0.3068838675775092
+Lift: 3.8711797789726035
+=====================================
+Rule: BATH TISSUE -> FACIAL TISSUE
+Support: 0.011348917040619499
+Confidence: 0.3805809575040344
+Lift: 3.6715726286783714
+=====================================
+Rule: ORGANIC POULTRY -> ORGANIC EGGS
+Support: 0.007679567538087045
+Confidence: 0.2373574615765989
+Lift: 3.64728670761187
+=====================================
+Rule: BROWN MUSHROOMS -> AVOCADOS
+Support: 0.007607383613447063
+Confidence: 0.30120673229596695
+Lift: 3.542581567093633
+=====================================
+Rule: TRASH BAGS -> ROLLED PAPER TOWELS
+Support: 0.008104650649855832
+Confidence: 0.24420009666505557
+Lift: 3.5095653682605183
+=====================================
+Rule: PEPPERS -> AVOCADOS
+Support: 0.00922751169981112
+Confidence: 0.29821150855365475
+Lift: 3.5073538537621456
+=====================================
+Rule: FOOD STORAGE BAGS -> ROLLED PAPER TOWELS
+Support: 0.005417804566034255
+Confidence: 0.24246231155778894
+Lift: 3.484590478761162
+=====================================
+Rule: BUTTER -> CAGE FREE EGGS
+Support: 0.006091521196007427
+Confidence: 0.20264140875133405
+Lift: 3.4646053898154894
+=====================================
+Rule: BANANAS -> STRAWBERRIES
+Support: 0.004844343386949949
+Confidence: 0.44265298644192014
+Lift: 3.4452160385191966
+=====================================
+Rule: CUCUMBERS -> AVOCADOS
+Support: 0.009319746714628874
+Confidence: 0.28452497551420175
+Lift: 3.3463824860460285
+=====================================
+Rule: TOMATOES -> AVOCADOS
+Support: 0.01469343888227203
+Confidence: 0.28219346888478125
+Lift: 3.318960946208646
+=====================================
+Rule: GREENS -> AVOCADOS
+Support: 0.006785288916158372
+Confidence: 0.28129675810473814
+Lift: 3.3084144652047835
+=====================================
+Rule: BANANAS -> BLUEBERRIES
+Support: 0.006280001443678493
+Confidence: 0.24422956955708047
+Lift: 3.305031646684879
+=====================================
+Rule: FUJI -> BANANAS
+Support: 0.008144752830211379
+Confidence: 0.42321316941029385
+Lift: 3.2939138413701774
+=====================================
+Rule: SWEET -> AVOCADOS
+Support: 0.005429835220140919
+Confidence: 0.2786008230452675
+Lift: 3.2767067746928142
+=====================================
+Rule: MANDARINS -> BANANAS
+Support: 0.0049927214542654684
+Confidence: 0.42046605876393106
+Lift: 3.272532782282535
+=====================================
+Rule: BANANAS -> GALA
+Support: 0.007872058003793666
+Confidence: 0.41846088254103603
+Lift: 3.256926279006223
+=====================================
+Rule: ROLLED PAPER TOWELS -> DISHWASHER DETERGENTS
+Support: 0.006456451037242895
+Confidence: 0.22429646140986348
+Lift: 3.2235167141114514
+=====================================
+Rule: BLUEBERRIES -> ASPARAGUS
+Support: 0.005149119957652097
+Confidence: 0.23813056379821956
+Lift: 3.2224969761988076
+=====================================
+Rule: AVOCADOS -> ASPARAGUS
+Support: 0.0058749694220874785
+Confidence: 0.2716988130563798
+Lift: 3.1955301914997656
+=====================================
+Rule: ORGANIC EGGS -> BANANAS
+Support: 0.005341610423358718
+Confidence: 0.20773549594510293
+Lift: 3.192109100034428
+=====================================
+Rule: POPCORN -> CHIPS
+Support: 0.007707639064335928
+Confidence: 0.25097936798119613
+Lift: 3.165973701836049
+=====================================
+Rule: PINEAPPLE -> BLUEBERRIES
+Support: 0.005129068867474325
+Confidence: 0.23271470160116448
+Lift: 3.1492069319678286
+=====================================
+Rule: SPINACH -> AVOCADOS
+Support: 0.010919823710815157
+Confidence: 0.26667319557340124
+Lift: 3.136422416176307
+=====================================
+Rule: CUCUMBERS -> BLUEBERRIES
+Support: 0.00754322012487819
+Confidence: 0.23028893241919687
+Lift: 3.116380260207749
+=====================================
+Rule: LEMONS -> AVOCADOS
+Support: 0.0046999755376699835
+Confidence: 0.26149040606871937
+Lift: 3.0754660941663086
+=====================================
+Rule: SPROUTS -> AVOCADOS
+Support: 0.005502019144780902
+Confidence: 0.2614329268292683
+Lift: 3.0747900638112835
+=====================================
+Rule: BATH TISSUE -> DISHWASHER DETERGENTS
+Support: 0.0091232460308867
+Confidence: 0.3169406519921984
+Lift: 3.0576165197589975
+=====================================
+Rule: HAND WASHING DISH DETERGENTS -> ROLLED PAPER TOWELS
+Support: 0.004675914229456656
+Confidence: 0.20986321094312455
+Lift: 3.0160866734142338
+=====================================
